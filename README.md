@@ -187,4 +187,3 @@ frontend/
 
 * Dhiraj Salnuke
 * Internship Task Submission
-# taskManage-frontend
